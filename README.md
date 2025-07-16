@@ -62,7 +62,7 @@ My projects focus on extracting insights, building predictive models, and creati
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nadav-yedid)
-- Email: nadav@example.com
+- Email: nadav.yadid8@gmail.com
 
 ---
 
