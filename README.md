@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nadav Yedid</h1>
+<h1 align="center">Hi, I'm Nadav Yedid 👋</h1>
 
 <p align="center">
 📊 Data Analyst & Machine Learning Enthusiast  
@@ -10,10 +10,10 @@
 
 ### 🚀 Projects Highlights
 
-- 🔬 BERT Sentiment Analysis – NLP with BERT, real-time inference  
-- 📊 Data Analysis Project 2024 – full analysis pipeline  
-- 🧠 Machine Learning Project – model comparison & evaluation  
-- 🎓 Reinforcement Learning Simulation – Q-learning for study optimization
+- 🔬 BERT Sentiment Analysis - NLP with BERT, real-time inference  
+- 📊 Data Analysis Project 2024 - full analysis pipeline  
+- 🧠 Machine Learning Project - model comparison & evaluation  
+- 🎓 Reinforcement Learning Simulation - Q-learning for study optimization
 
 ---
 
@@ -66,4 +66,4 @@ My projects focus on extracting insights, building predictive models, and creati
 
 ---
 
-<p align="center">✨ I believe data is not just numbers — it's a powerful story waiting to be told. ✨</p>
+<p align="center">✨ I believe data is not just numbers - it's a powerful story waiting to be told. ✨</p>
